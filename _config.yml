@@ -1,36 +1,35 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Rakibul Islam
+email: mdrakibul.islam@wsu.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: March 25, 2018 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # put your github username
-twitter_username: # put your twitter username
+github_username: rislam # put your github username
+twitter_username: jahin114 # put your twitter username
 linkedin_username: # put your linkedin username
 scholar_authorid: # put your google scholar author id
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to reach me.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: 
-blog_description: a simple whitespace theme for academics
+blog_name: notes
+blog_description: keeping some brief informations for later use
 
 # Pagination
 paginate: 4

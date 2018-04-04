@@ -1,23 +1,31 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Rakib</strong> Islam
+description: <a href="">Graduate Student</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>340 Dana Hall</p>
+    <p>305 NE Spokane St</p>
+    <p>Pullman, WA 99164</p>
 
 news: true
 social: true
 ---
+I am third year PhD student at the [EECS](https://school.eecs.wsu.edu) department of [Washington State University](https://wsu.edu/). My research focus is on *Machine Learning* and currently I am advised by Dr. Jana Doppa
+<!-- (http://eecs.wsu.edu/~jana/). -->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interest consists Structured Machine Learning, Deep Learning, Sequential Decision Making, Human-in-the-loop Learning, and Human-Machine Collaborative Problem Solving.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Before graduate school, I worked as Software Engineer at [Escenic](http://www.escenic.com/) and Samsung R & D for four years. I have completed my Bachelors in CSE from [Bangladesh University of Engineering and Technology](http://cse.buet.ac.bd/).
+
+
+
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ -->
