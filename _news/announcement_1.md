@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-1-22 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+AAMAS 2018 Paper "Preference-Guided Planning: An Active Elicitation Approach" got accepted.

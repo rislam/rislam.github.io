@@ -6,7 +6,6 @@ description: <a href="">Graduate Student</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
   address: >
     <p>340 Dana Hall</p>
     <p>305 NE Spokane St</p>
@@ -15,8 +14,7 @@ profile:
 news: true
 social: true
 ---
-I am third year PhD student at the [EECS](https://school.eecs.wsu.edu) department of [Washington State University](https://wsu.edu/). My research focus is on *Machine Learning* and currently I am advised by Dr. Jana Doppa
-<!-- (http://eecs.wsu.edu/~jana/). -->
+I am third year PhD student at the [EECS](https://school.eecs.wsu.edu) department of [Washington State University](https://wsu.edu/). My research focus is on *Machine Learning* and currently I am advised by [Dr. Janardhan Rao Doppa](http://eecs.wsu.edu/~jana/).
 
 My research interest consists Structured Machine Learning, Deep Learning, Sequential Decision Making, Human-in-the-loop Learning, and Human-Machine Collaborative Problem Solving.
 
