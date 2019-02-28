@@ -1,0 +1,7 @@
+What to do
+
+gh-pages needs to be checked out for development then commit those changes
+
+master is what is showing the page now.
+
+./bin/deploy use this to deploy
