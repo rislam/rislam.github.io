@@ -1,14 +1,6 @@
 ---
 ---
 
-@inproceedings{Das2018PE,
-  title={Preference-Guided Planning: An Active Elicitation Approach},
-  author={Mayukh Das and Md Rakibul Islam and Janardhan Rao Doppa and Dan Roth and Sriraam Natarajan},
-  year={2018},
-  booktitle={AAMAS (International Conference on Autonomous Agents and Multiagent Systems)}
-}
-
-
 @inproceedings{Das2017ActivePE,
   title={Active Preference Elicitation for Planning},
   author={Mayukh Das and Md Rakibul Islam and Janardhan Rao Doppa and Dan Roth and Sriraam Natarajan},
@@ -36,4 +28,34 @@
   booktitle={Journal of Machine Learning Research (JMLR), Proceedings Track},
   pages={129--144},
   year={2017}
+}
+
+@inproceedings{Das2018ActiveAD,
+  title={Active Anomaly Detection via Ensembles},
+  author={Shubhomoy Das and Md Rakibul Islam and Nitthilan Kannappan Jayakodi and Janardhan Rao Doppa},
+  booktitle={CoRR},
+  year={2018}
+}
+
+@inproceedings{das2019active,
+  title={Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability},
+  author={Das, Shubhomoy and Islam, Md Rakibul and Jayakodi, Nitthilan Kannappan and Doppa, Janardhan Rao},
+  booktitle={arXiv preprint arXiv:1901.08930},
+  year={2019},
+  abstract={Anomaly detection (AD) task corresponds to identifying the true anomalies from a given set of data instances. AD algorithms score the data instances and produce a ranked list of candidate anomalies, which are then analyzed by a human to discover the true anomalies. However, this process can be laborious for the human analyst when the number of false-positives is very high. Therefore, in many real-world AD applications including computer security and fraud prevention, the anomaly detector must be configurable by the human analyst to minimize the effort on false positives. 
+  In this paper, we study the problem of active learning to automatically tune ensemble of anomaly detectors to maximize the number of true anomalies discovered. We make four main contributions towards this goal. First, we present an important insight that explains the practical successes of AD ensembles and how ensembles are naturally suited for active learning. Second, we present several algorithms for active learning with tree-based AD ensembles. These algorithms help us to improve the diversity of discovered anomalies, generate rule sets for improved interpretability of anomalous instances, and adapt to streaming data settings in a principled manner. Third, we present a novel algorithm called GLocalized Anomaly Detection (GLAD) for active learning with generic AD ensembles. GLAD allows end-users to retain the use of simple and understandable global anomaly detectors by automatically learning their local relevance to specific data instances using label feedback. Fourth, we present extensive experiments to evaluate our insights and algorithms. Our results show that in addition to discovering significantly more anomalies than state-of-the-art unsupervised baselines, our active learning algorithms under the streaming-data setup are competitive with the batch setup.}
+}
+
+@inproceedings{DAS2019219,
+  title={Planning with actively eliciting preferences},
+  booktitle={Knowledge-Based Systems},
+  volume={165},
+  pages={219 - 227},
+  year={2019},
+  issn={0950-7051},
+  doi={https://doi.org/10.1016/j.knosys.2018.11.028},
+  url={http://www.sciencedirect.com/science/article/pii/S095070511830580X},
+  author={Mayukh Das and Phillip Odom and Md. Rakibul Islam and Janardhan Rao Doppa and Dan Roth and Sriraam Natarajan},
+  keywords={Active preference elicitation, Human-in-the-loop, Planning, HTN, Human–agent interaction},
+  abstract={Planning with preferences has been employed extensively to quickly generate high-quality plans. However, it may be difficult for the human expert to supply this information without knowledge of the reasoning employed by the planner. We consider the problem of actively eliciting preferences from a human expert during the planning process. Specifically, we study this problem in the context of the Hierarchical Task Network (HTN) planning framework as it allows easy interaction with the human. We propose an approach where the planner identifies when and where expert guidance will be most useful and seeks expert’s preferences accordingly to make better decisions. Our experimental results on several diverse planning domains show that the preferences gathered using the proposed approach improve the quality and speed of the planner, while reducing the burden on the human expert.}
 }
