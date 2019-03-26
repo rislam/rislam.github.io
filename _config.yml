@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Rakibul Islam
+name: Rakib Islam
 email: mdrakibul.islam@wsu.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -11,7 +11,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: March 25, 2018 # leave blank if you don't want to display last updated
+last_updated:  # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
