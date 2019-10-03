@@ -14,11 +14,11 @@ profile:
 news: true
 social: true
 ---
-I am third year PhD student at the [EECS](https://school.eecs.wsu.edu) department of [Washington State University](https://wsu.edu/). My research focus is on *Machine Learning* and currently I am advised by [Dr. Jana Doppa](http://eecs.wsu.edu/~jana/).
+I am fith year PhD student at the [EECS](https://school.eecs.wsu.edu) department of [Washington State University](https://wsu.edu/). My research focus is broadly on *Machine Learning*, *Artificial Intelligence* and currently I am advised by [Dr. Jana Doppa](http://eecs.wsu.edu/~jana/).
 
-My research interest includes Sequential Decision Making, Human-in-the-loop Learning, Structured Machine Learning, Deep Learning.
+More specifically, I am working on Anomaly Detection, Sequential Decision Making, Human-in-the-loop Learning, Sequence modeling using Deep Learning, Structured Prediction.
 
-Before joining graduate school, I worked as Software Engineer at [Escenic](http://www.escenic.com/) and Samsung R&D for four years. I have completed my bachelors in CSE from [Bangladesh University of Engineering and Technology](http://cse.buet.ac.bd/).
+Before joining graduate school, I worked as Consultant, Professional Services at [Escenic](http://www.escenic.com/) and Samsung R&D Bangladesh for more than four years. I have completed my bachelors in CSE from [Bangladesh University of Engineering and Technology](http://cse.buet.ac.bd/).
 
 
 
