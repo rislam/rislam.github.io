@@ -2,7 +2,7 @@
 layout: page
 title: Query Optimization
 description: Learning to optimize graph query
-img: /assets/img/2.jpg
+<!-- img: /assets/img/2.jpg -->
 ---
 
 As a part of our course project for Structured Prediction and Advanced Database I worked on learning to optimize query plans for efficiently querying large-scale knowledge graphs. The ICAPS 2017 paper {% cite Namaki2017LearningTS %} and ACML 2017 paper {%cite chowdhury2017select %} contains the primary results.

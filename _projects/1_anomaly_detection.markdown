@@ -2,9 +2,9 @@
 layout: page
 title: Anomaly Detection
 description: ongoing
-img: /assets/img/anomaly.jpg
+<!-- img: /assets/img/anomaly.jpg -->
 ---
-Anomaly detections are well studied as an **Unsupervised Learning** problem. And we are trying to answer how we can learn an anomaly detector by asking queries from human actively. Hence, the name came as *Active Anomaly Detection*. This work is the most updated and recent work {%cite das2019active%}.
+Anomaly detections are well studied as an **Unsupervised Learning** problem. And we are trying to answer how we can learn an optimal anomaly detector by asking labels from human. Hence, the name came as *Active Anomaly Detection*. This work is the most updated and recent work {%cite das2019active%}.
 
 References
 -----------
