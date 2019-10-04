@@ -6,6 +6,7 @@ description: <a href="">Graduate Student</a>
 
 profile:
   align: right
+  image: old_pic.jpg
   address: >
     <p>118 Dana Hall</p>
     <p>305 NE Spokane St</p>
