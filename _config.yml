@@ -20,10 +20,9 @@ github_username: rislam # put your github username
 twitter_username: jahin114 # put your twitter username
 linkedin_username: rakibislam # put your linkedin username
 scholar_authorid: c9ez4SUAAAAJ # put your google scholar author id
-contact_note: >
-  Email is the best way to reach me.
+# contact_note: 
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+# google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -84,7 +83,7 @@ gems:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Islam
 
   style: apa
   locale: en
