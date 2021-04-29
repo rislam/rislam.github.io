@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-29T13:16:05-07:00</updated><id>/feed.xml</id><title type="html">Rakib Islam</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Sequence to Sequence Models</title><link href="/blog/2018/seq2seq-model/" rel="alternate" type="text/html" title="Sequence to Sequence Models" /><published>2018-04-08T00:00:00-07:00</published><updated>2018-04-08T00:00:00-07:00</updated><id>/blog/2018/seq2seq-model</id><content type="html" xml:base="/blog/2018/seq2seq-model/">&lt;p&gt;One of the major contribution of Deep Neural Networks is to model a sequence to another sequence. Here sequence could be a sentence in one language &lt;em&gt;English&lt;/em&gt;. Neural Machine Translation (NMT) showed promising results.&lt;/p&gt;
+
+&lt;p&gt;Here are some links to learn more about a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;seq2seq&lt;/code&gt; models.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/view/seq2seq-icml17&quot;&gt;ICML 2017 Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[Tensorflow Tutorial] (https://www.tensorflow.org/tutorials/seq2seq)&lt;/li&gt;
+  &lt;li&gt;Papers
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">One of the major contribution of Deep Neural Networks is to model a sequence to another sequence. Here sequence could be a sentence in one language English. Neural Machine Translation (NMT) showed promising results.</summary></entry><entry><title type="html">Backpropagation explanation</title><link href="/blog/2018/backprop/" rel="alternate" type="text/html" title="Backpropagation explanation" /><published>2018-02-16T00:00:00-08:00</published><updated>2018-02-16T00:00:00-08:00</updated><id>/blog/2018/backprop</id><content type="html" xml:base="/blog/2018/backprop/">&lt;p&gt;This slide and hand note seems really easy to read.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec06.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/readings/L06%20Backpropagation.pdf&quot;&gt;handout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">This slide and hand note seems really easy to read. Slides handout</summary></entry><entry><title type="html">Tmux</title><link href="/blog/2017/tmux-for-terminal/" rel="alternate" type="text/html" title="Tmux" /><published>2017-05-17T00:00:00-07:00</published><updated>2017-05-17T00:00:00-07:00</updated><id>/blog/2017/tmux-for-terminal</id><content type="html" xml:base="/blog/2017/tmux-for-terminal/">&lt;p&gt;Well this is after quite a while. Today I came to know about &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmux&lt;/code&gt; which is splitting windows into multiple windows.
+For running experiments and following up them it will really help. Earlier I tried to create multiple tabs to follow up them. But now
+it’s quite easy to follow from a single window.
+This is a nice tutorial for starting with &lt;em&gt;tmux&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/&lt;/p&gt;</content><author><name></name></author><summary type="html">Well this is after quite a while. Today I came to know about tmux which is splitting windows into multiple windows. For running experiments and following up them it will really help. Earlier I tried to create multiple tabs to follow up them. But now it’s quite easy to follow from a single window. This is a nice tutorial for starting with tmux</summary></entry><entry><title type="html">Bash</title><link href="/blog/2017/Bash/" rel="alternate" type="text/html" title="Bash" /><published>2017-01-16T00:00:00-08:00</published><updated>2017-01-16T00:00:00-08:00</updated><id>/blog/2017/Bash</id><content type="html" xml:base="/blog/2017/Bash/">&lt;p&gt;Well I use them most of the times. So, just accumulation of them can save time.
+Read the nth line from a file&lt;/p&gt;
+
+&lt;p&gt;sed -n ‘26p’ log-hh101-timed.txt&lt;/p&gt;
+
+&lt;p&gt;How to zip a folder?
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;zip -r file_name.zip directory&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;here &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;directory&lt;/code&gt; is the location of all the files which we want to zip. and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-r&lt;/code&gt; is the recursive option.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to copy from remote server to current server?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;scp is the command.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;scp username@source-server-name:/which files to copy username@destination-server-name:/directory to copy
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Drop All the submitted jobs&lt;/strong&gt;
+Loop to drop the jobs&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;for i in `seq 546965 546985`; do qdel $i; done
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Well I use them most of the times. So, just accumulation of them can save time. Read the nth line from a file</summary></entry><entry><title type="html">RL Resources</title><link href="/blog/2016/RL-and-Deep-RL/" rel="alternate" type="text/html" title="RL Resources" /><published>2016-11-02T00:00:00-07:00</published><updated>2016-11-02T00:00:00-07:00</updated><id>/blog/2016/RL-and-Deep-RL</id><content type="html" xml:base="/blog/2016/RL-and-Deep-RL/">&lt;p&gt;This is to track the resources for RL. Some of them are from &lt;a href=&quot;http://karpathy.github.io/&quot;&gt;Andrej Karpathy blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos&quot;&gt;David Silver Course Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html&quot;&gt;Sutton’s Book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oPGVsoBonLM&quot;&gt;John Schulmann’s lectures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">This is to track the resources for RL. Some of them are from Andrej Karpathy blog</summary></entry></feed>
