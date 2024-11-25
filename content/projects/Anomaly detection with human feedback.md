@@ -5,7 +5,7 @@ date = "2017-01-01"
 +++
 
 
-# Vagus elidunt
+# Anomaly detections
 
 Anomaly detections are well studied as an Unsupervised Learning problem. And we are trying to answer how we can learn an optimal anomaly detector by asking labels from human. Hence, the name came as Active Anomaly Detection. This work is the most updated and recent work (Das et al., 2019).
 References
